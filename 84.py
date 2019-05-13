@@ -1,2 +1,2 @@
-k=input()
-print(ord(k))
+e=input()
+print(ord(e))
